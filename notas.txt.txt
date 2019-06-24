@@ -1,9 +1,5 @@
 AAAAAAAAAAAAAAAAAAAAHHHHHHHHHHHHHHHHHHHHHHH
-<<<<<<< HEAD
-2 Ivan
-=======
 2 Tinky winky
->>>>>>> 736a7cfe331500c8ef32f53f05df807f70c84568
 Lau
 Luna
 3
