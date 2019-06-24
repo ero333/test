@@ -1,5 +1,5 @@
 AAAAAAAAAAAAAAAAAAAAHHHHHHHHHHHHHHHHHHHHHHH
-2 
+2 Tinky winky
 Lau
 Luna
 3
@@ -11,5 +11,7 @@ Juan
 7
 Joaquin
 8
-9
-Ivan
+9 Ivan
+9 Clara
+9 Ivan
+
