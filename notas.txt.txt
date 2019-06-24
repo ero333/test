@@ -1,14 +1,8 @@
 1 Desi
-<<<<<<< HEAD
-2
-
-=======
 2 
 Lau
->>>>>>> 3f16780c521e71d406caa6f73fb4a97c4ca6a999
-3
 Luna
-
+3
 4
 5
 Juan
