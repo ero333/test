@@ -9,8 +9,7 @@ Juan
 6
 7
 Joaquin
-8
+8 Hola don pepito
 9 Ivan
 9 Clara
 9 Ivan
-
