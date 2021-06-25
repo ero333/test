@@ -16,14 +16,10 @@ Joaquin
 9 navI
 666MatiasBianco
 22 Diegol
-<<<<<<< HEAD
 12 Candela la canizart (Candela Zarate)
-
-=======
 Pablo Bernardo Samper
->>>>>>> f3dddcbc9338eb073e16671d505fc3dc767b3793
 14/6 fran
-24 Nicole 
+48 ERO
 7 Pini Santoro
-
+24 Nicole 
 25MartinF
