@@ -18,20 +18,9 @@ Joaquin
 22 Diegol
 Pablo Bernardo Samper
 14/6 fran
-
-<<<<<<< HEAD
-
-
-
-
-
-
-
-
-
-
-
-Franco k
-=======
+12 Candela la canizart
+Franco kees
+24 Nicole 
 7 Pini Santoro
->>>>>>> 0792615e6ef1a40a95b78622e686e11f1c26a0bf
+
+25MartinF
