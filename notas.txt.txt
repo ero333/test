@@ -22,7 +22,7 @@ Pablo Bernardo Samper
 
 <<<<<<< HEAD
 
-24 Nicole
+
 
 =======
 7 Pini Santoro
