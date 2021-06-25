@@ -18,7 +18,12 @@ Joaquin
 22 Diegol
 Pablo Bernardo Samper
 14/6 fran
+24 Nicole 
 
+<<<<<<< HEAD
 
 24 Nicole
 
+=======
+7 Pini Santoro
+>>>>>>> 0792615e6ef1a40a95b78622e686e11f1c26a0bf
