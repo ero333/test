@@ -4,7 +4,7 @@ Lau
 Luna
 3 
 4 Señora pacman
-5 ERO FrancoK Rcasanas (Ricardo José Casañas Sala) Pablo Bernardo Samper aqui estoy champ mierda carajo Julián Leonardo Santoro Gómez Juan Manuel Artigau
+5 ERO FrancoK Rcasanas (Ricardo José Casañas Sala) Pablo Bernardo Samper aqui estoy champ mierda carajo Julián Leonardo Santoro Gómez Juan Manuel Artigau Almendra Liam
 Flor
 Juan
 6 Nico nico ni
@@ -35,4 +35,7 @@ Pablo Bernardo Samper (este es mi nombre real)
 3 Agustina
 27-6 Franco K
 
+
+
+50Liam
 
