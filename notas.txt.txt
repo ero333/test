@@ -4,7 +4,11 @@ Lau
 Luna
 3 
 4 Señora pacman
+<<<<<<< .mine
 5 Pablo Bernardo Samper
+=======
+5 ERO
+>>>>>>> .theirs
 Flor
 Juan
 6 Nico nico ni
@@ -16,16 +20,18 @@ Joaquin
 9 navI
 666MatiasBianco
 22 Diegol
+14/6 fran
 12 Candela la canizart
-Pablo Bernardo Samper
+Franco kees
+24 Nicole 
 35 JUAN
 Pablo Bernardo Samper (este es mi nombre real)
-14/6 fran
 48 ERO
 7 Pini Santoro
-24 Nicole 
+25MartinF
 25 Martin Artofmarts
 24  Nicole Marra
 3 Agustina
+27-6 Franco K
 
 
