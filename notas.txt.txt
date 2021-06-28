@@ -4,11 +4,9 @@ Lau
 Luna
 3 
 4 Señora pacman
-<<<<<<< .mine
 5 Pablo Bernardo Samper
-=======
-5 ERO
->>>>>>> .theirs
+6 Rcasanas (Ricardo José Casañas Sala)
+7 ERO
 Flor
 Juan
 6 Nico nico ni
@@ -28,10 +26,10 @@ Franco kees
 Pablo Bernardo Samper (este es mi nombre real)
 48 ERO
 7 Pini Santoro
+24 Nicole 
 25MartinF
+3 Agustina
 25 Martin Artofmarts
 24  Nicole Marra
 3 Agustina
 27-6 Franco K
-
-
