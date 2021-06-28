@@ -4,7 +4,7 @@ Lau
 Luna
 3 
 4 Señora pacman
-5
+5 Pablo Bernardo Samper
 Flor
 Juan
 6 Nico nico ni
@@ -27,4 +27,5 @@ Pablo Bernardo Samper (este es mi nombre real)
 25 Martin Artofmarts
 24  Nicole Marra
 3 Agustina
+
 
