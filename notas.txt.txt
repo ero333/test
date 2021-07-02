@@ -1,5 +1,3 @@
-AAAAAAAAAAAAAAAAAAAAHHHHHHHHHHHHHHHHHHHHHHH
-2 eeeeeeeeeeeeeehhhhh soy el diego
 Lau
 Luna
 3 
@@ -16,10 +14,15 @@ Joaquin
 9 navI
 666MatiasBianco
 22 Diegol
+<<<<<<< HEAD
+12 Candela la canizart (Candela Zarate)
+Pablo Bernardo Samper
+=======
 14/6 fran
 12 Candela la canizart
 Franco kees
 24 Nicole 
+>>>>>>> a273798edf3b46f880f895d9f4953d03dbf0797a
 35 JUAN
 Pablo Bernardo Samper (este es mi nombre real)
 48 ERO
