@@ -31,9 +31,17 @@ Pablo Bernardo Samper (este es mi nombre real)
 50Liam
 1111 Kate
 Elon Musk
+kuchau
+frog scape
+Matias bianco
 23 Sofia Casella
 frog scape
+448 AZUL
+77 Bruno
 
+<<<<<<< HEAD
 448 AZUL
 
 homero dou
+=======
+>>>>>>> f06152a59f4fdc47927acf0e3d6bd1adc96407c2
