@@ -29,14 +29,9 @@ Pablo Bernardo Samper (este es mi nombre real)
 27-6 Franco K
 3.14159265358979323846 Ivan
 50Liam
-<<<<<<< HEAD
 1111 Kate
-
 Elon Musk
-
-kuchau
-=======
 23 Sofia Casella
->>>>>>> d2104b1d8632e7350b2e433d9f1f9aa6926174cf
-
 frog scape
+
+448 AZUL
