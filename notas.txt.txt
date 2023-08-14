@@ -61,12 +61,6 @@ Nada más queda
 Nada más queda
 Nada más queda
 Nada más queda
-
-<<<<<<< HEAD
 448 AZUL
-
 homero dou
-=======
->>>>>>> f06152a59f4fdc47927acf0e3d6bd1adc96407c2
-
 agregue un delay lama xd
