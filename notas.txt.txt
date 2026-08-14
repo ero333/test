@@ -64,7 +64,11 @@ Nada más queda
 Nada más queda
 448 AZUL
 homero dou
+<<<<<<< HEAD
 agregue un delay lama xd 2
+=======
+agregue un delay lama xd hgfhfh
+>>>>>>> be3aaa8bd043525f72c83c6f45bb350978a271bd
 14 Pri <3
 9 Vallejos Victoria
 4 juani
