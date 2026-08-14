@@ -64,7 +64,15 @@ Nada más queda
 Nada más queda
 448 AZUL
 homero dou
-agregue un delay lama xd hgfhfh
+<<<<<<< HEAD
+<<<<<<< HEAD
+agregue un delay lama xd 2
+=======
+agregue un delay lama xd hgfhfh piripitiflautico
+>>>>>>> be3aaa8bd043525f72c83c6f45bb350978a271bd
+=======
+agregue un delay lama xd hgfhfh 03
+>>>>>>> bc25cce89c436648c3399de6fec50e6bdc9c8db9
 14 Pri <3
 9 Vallejos Victoaa
 4 juani
@@ -82,7 +90,11 @@ Platons de albondigas
 Hola
 aa
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> ee4221b0a6080ef736c6c175f6a1679f8aedf376
+=======
+buscando conflicto
+>>>>>>> 9ad3f2dcf5ff07fa0a2e97cdd75a8914974ba9ca
 
 =======
 MLEM
